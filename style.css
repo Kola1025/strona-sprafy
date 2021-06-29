@@ -72,4 +72,20 @@
     opacity: 1;
   }
 
-  
+  html { scroll-behavior: smooth; } 
+
+  .menu{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      width: auto;
+  }
+
+  .menu a{
+      font-size: 220%;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      color: #33CC66;
+      font-weight: bold;
+      text-decoration: none;
+      text-shadow: 4px 4px #00197C
+  }
