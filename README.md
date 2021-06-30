@@ -16,7 +16,5 @@
   </p>
 </p>
 
-# Strona internetowa bota sprafy
+# Strona internetowa bota sprafy:
 ## https://sprafy-bot.wzium.site/
-
-.
